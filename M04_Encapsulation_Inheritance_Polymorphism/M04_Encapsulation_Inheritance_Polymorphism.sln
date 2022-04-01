@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shapes", "M04_Encapsulation_Inheritance_Polymorphism\Shapes.csproj", "{7962AB2D-368C-4231-BCC5-37BFA1F00230}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComputerGame", "ComputerGame\ComputerGame.csproj", "{DA57C72C-D8A7-4515-9307-90F318BE2351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7962AB2D-368C-4231-BCC5-37BFA1F00230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7962AB2D-368C-4231-BCC5-37BFA1F00230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7962AB2D-368C-4231-BCC5-37BFA1F00230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7962AB2D-368C-4231-BCC5-37BFA1F00230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA57C72C-D8A7-4515-9307-90F318BE2351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA57C72C-D8A7-4515-9307-90F318BE2351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA57C72C-D8A7-4515-9307-90F318BE2351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA57C72C-D8A7-4515-9307-90F318BE2351}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2EBA69A-A17D-4E41-ABF0-B2D7DBABF175}
+	EndGlobalSection
+EndGlobal
