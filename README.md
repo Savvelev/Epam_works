@@ -1,8 +1,8 @@
 # SavelievM
 
 ## Teaching projects of the epam course.
-
-# From 1 to 9 these are small tasks related to the topic.
+### -----------------------------------------------
+### From 1 to 9 these are small tasks related to the topic.
 
 
 ### 10 project
