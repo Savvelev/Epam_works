@@ -75,3 +75,4 @@ To use it, you need to independently connect to the PostrgeSQL database using th
     • https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.0<br/>
     • https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-3.0<br/>
 
+https://join.slack.com/t/notissimusteam/invite/enQtMzUzMjI5OTQyNzUyMC01NjU0Y2UwOTZiYjA3ZWUwMDA2Mjg1OWEyNTkyNzA0ZWVlZGU2NzEwYzZhMGVjZDJmYzdmNWQwOTc4MmRjNDFm?x=x-p59712928064-59729226178-3508539041539
