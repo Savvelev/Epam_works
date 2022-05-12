@@ -34,6 +34,7 @@ namespace BussinessLogic
                     }
                     // some chages
                     var a = 2;
+                    var b = 4;
                 });
         }
     }
