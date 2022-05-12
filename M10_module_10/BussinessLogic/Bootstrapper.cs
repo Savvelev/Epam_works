@@ -32,6 +32,7 @@ namespace BussinessLogic
                         default:
                             throw new OutputTypeReportException();
                     }
+
                 });
         }
     }
